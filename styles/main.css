@@ -1,0 +1,7 @@
+.lp-video {
+    display: inline-block;
+}
+
+.lp-video video{
+    width: 100%;
+}

@@ -1,0 +1,34 @@
+{
+  "name": "lime-player",
+  "version": "1.0.0",
+  "description": "A light wight HTML5 video player supports HLS, MPEG-DASH, IMA SDK, and many more",
+  "main": "dist/lime-player.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fortiapp/lime-player.git"
+  },
+  "author": "Mustafa Dwaikat <dwekat@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fortiapp/lime-player/issues"
+  },
+  "homepage": "https://github.com/Fortiapp/lime-player#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-if": "^2.0.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "yargs": "^5.0.0"
+  }
+}

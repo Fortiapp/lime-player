@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA,UACA,oBAAA,CACA,AAEA,gBACA,UAAA,CACA","file":"lime-player.min.css","sourcesContent":[".lp-video {\n    display: inline-block;\n}\n\n.lp-video video{\n    width: 100%;\n}"],"sourceRoot":"/source/"}
